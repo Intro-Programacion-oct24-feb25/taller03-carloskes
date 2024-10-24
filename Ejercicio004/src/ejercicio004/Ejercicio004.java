@@ -14,10 +14,12 @@ public class Ejercicio004 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        boolean valor1 = 20 / (1 + 3) +2 >= 3;  
+        int valor1 = 20 / (1 + 3) +2;  
+        int valor2 = 3;
+                boolean valor3 = valor1 >= valor2;
+         
         
-        
-        System.out.println(valor1);
+        System.out.println(valor3);
         
         
         
