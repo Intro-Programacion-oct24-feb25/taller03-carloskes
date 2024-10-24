@@ -15,9 +15,10 @@ public class Ejercicio02 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // Resolución del problema
+        // Asignamos valores
         int var1 = 10;
        double resultado1 = Math.pow(var1,2);
+       // obtenemos nuestro resultado, lo convertimos en variable y lo calculamos.
         
         int var2 = 10;
                 System.out.println(resultado1 + var2);

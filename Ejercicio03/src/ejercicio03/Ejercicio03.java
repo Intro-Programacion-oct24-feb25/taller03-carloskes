@@ -16,7 +16,16 @@ public class Ejercicio03 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        
+        int var1 = 10;
+       double resultado1 = Math.pow(var1,2);
+       int var2 = 16;
+               double resultado2 = Math.sqrt(var2);
+               
+               
+               
+               
+               
+               System.out.print(resultado1 + resultado2 + 20/(1+11) );
     }
     
 }
